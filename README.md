@@ -1,3 +1,4 @@
+https://mosnad-web01.github.io/Abdulmajeed-phase-0-javascript-events-acting-on-events-lab/
 # Moving Things with JavaScript by Acting on Events
 
 ## Learning Goals
