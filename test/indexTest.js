@@ -42,5 +42,5 @@ describe('moveDodgerRight()', () => {
       expect(newPosition).to.equal(left)
     }
     
-  })
+  }) 
 })
